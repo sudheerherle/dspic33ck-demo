@@ -1,0 +1,1 @@
+ -c -mcpu=$(MP_PROCESSOR_OPTION)      -g -D__DEBUG   -mno-eds-warn  -omf=elf -DXPRJ_default=$(CND_CONF)  -legacy-libc  $(COMPARISON_BUILD)  -O0 -I"bsp" -I"mcc_generated_files" -msmart-io=1 -Wall -msfr-warn=off   D:\xpress\projects\dspic33ck-demo\project.X\bsp\adc.c
